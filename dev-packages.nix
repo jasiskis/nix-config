@@ -12,6 +12,7 @@
     idea.idea-community
     awscli
     emacs
+    gitAndTools.hub
     ];
 
 systemd.user.services.emacs = {
