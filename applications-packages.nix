@@ -6,6 +6,7 @@
     chromium
     firefox
     evince
+    vlc
     ];
 
   nixpkgs.config = {

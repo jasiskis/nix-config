@@ -21,6 +21,7 @@
  
  services.xserver.layout = "us";
  services.xserver.xkbVariant = "colemak";
+ services.xserver.xkbOptions = "terminate:ctrl_alt_bksp, ctrl:nocaps, altwin:swap_lalt_lwin";
  
  i18n = {
    consoleKeyMap = /home/andremidea/colemak-1.0/linux_console/colemak.iso15.kmap;
